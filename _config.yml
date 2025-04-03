@@ -13,7 +13,7 @@ title                    : "Junjie Zhang"
 title_separator          : "-"
 name                     : &name "Junjie Zhang"
 description              : &description "Professor | Wright State University"
-url                      : https://jzhang369.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://jzhang369.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jzhang369/jzhang369.github.io"
 
