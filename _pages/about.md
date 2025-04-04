@@ -8,23 +8,23 @@ redirect_from:
 
 <h2 style="text-decoration: underline;">ABOUT ME</h2>
 
-I am a tenured Professor in the Department of Computer Science and Engineering at Wright State University. 
-I received my Ph.D. degree in Computer Science from Georgia Institute of Technology in 2012, and my M.S. in Systems 
-Engineering and B.S. in Computer Science from Xi'an Jiaotong University, China, in 2006 and 2003, respectively. My 
-research focuses primarily on computer and network security. In particular, I am interested in building automated, 
-effective, and scalable systems for security purposes. My current research focuses on Internet malware analysis, 
-detection, and mitigation, Cyber-Physical System Security, and Software Security.
+Dr. Junjie Zhang is a tenured Associate Professor in the Department of Computer Science and Engineering at Wright State University (WSU). He serves as the Director of the CSE Cyber Security Program and the Point of Contact for WSU’s designation as a National Center of Academic Excellence in Cyber Defense Education (CAE-CD). His research focuses on software and network security. Dr. Zhang has led many research and education initiatives supported by federal, state, and industry partners, including the National Science Foundation (NSF), Air Force Research Laboratory (AFRL), National Highway Traffic Safety Administration/Transportation Research Center (NHTSA/TRC),  the Ohio Department of Higher Education (ODHE), and the Ohio Cyber Range Institute (OCRI). 
+
 
 <h2 style="text-decoration: underline;">EDUCATION</h2>
 
+|name|test|
+|:----:|:----:|
+|test|test|
+
 Georgia Institute of Technology, Atlanta, GA, USA
-Ph.D. in Computer Science 2012
+Ph.D. in Computer Science, 2012
 
 Xi’an Jiaotong University, Xi’an, Shaanxi, China
-M.S. in Systems Engineering 2006
+M.S. in Systems Engineering, 2006
 
 Xi’an Jiaotong University, Xi’an, Shaanxi, China
-B.S. in Computer Science
+B.S. in Computer Science, 2003
 
 
 <h2 style="text-decoration: underline;">ACADEMIC APPOINTMENTS</h2>
