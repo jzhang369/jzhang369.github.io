@@ -63,7 +63,7 @@ Awardee, Robert J. Kegerreis Distinguished Professor of Teaching Award, 2024, Wr
 
 Nominee, Robert J. Kegerreis Distinguished Professor of Teaching Award, 2023, Wright State University
 
-Nominee, University TET Teaching Award 2022, Wright State University
+Nominee, University TET Teaching Award, 2022, Wright State University
 
 Awardee, Excellence in Teaching of College of Engineering and Computer Science (Student Voted), 2022, Wright State University
 
