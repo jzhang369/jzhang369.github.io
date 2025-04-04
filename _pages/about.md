@@ -13,68 +13,59 @@ Dr. Junjie Zhang is a tenured Associate Professor in the Department of Computer 
 
 <h2 style="text-decoration: underline;">EDUCATION</h2>
 
-|name|test|
-|:----:|:----:|
-|test|test|
 
-Georgia Institute of Technology, Atlanta, GA, USA
+Georgia Institute of Technology, Atlanta, Georgia, USA,
 Ph.D. in Computer Science, 2012
 
-Xi’an Jiaotong University, Xi’an, Shaanxi, China
+Xi’an Jiaotong University, Xi’an, Shaanxi, China, 
 M.S. in Systems Engineering, 2006
 
-Xi’an Jiaotong University, Xi’an, Shaanxi, China
+Xi’an Jiaotong University, Xi’an, Shaanxi, China,
 B.S. in Computer Science, 2003
 
 
 <h2 style="text-decoration: underline;">ACADEMIC APPOINTMENTS</h2>
 
-Associate Professor 2018 - Present
+Associate Professor, 2018 - Present
 Dept. of Computer Science and Engineering,
 Wright State University, Dayton, OH
 
-Assistant Professor 2012 - 2018
+Assistant Professor, 2012 - 2018
 Dept. of Computer Science and Engineering,
 Wright State University, Dayton, OH
 
 
 <h2 style="text-decoration: underline;">LEADERSHIP AND LEADERSHIP TRAINING</h2>
 
-Director of The Cyber Security Program (Appointed) Feb. 2022 - present
-Dept. of Computer Science and Engineering
-Wright State University, Dayton, OH
+Director of the CSE Cyber Security Program (Appointed) 
++ Feb. 2022 - present
++ Dept. of Computer Science and Engineering
++ Wright State University
 
-Trainee (Selected) Aug. 2023 - Apr. 2024
-Wright Leader Academy Program
-Wright State University, Dayton, OH
+Selected Trainee 
++ Aug. 2023 - Apr. 2024
++ Wright Leader Academy Program
++ Wright State University
 
-Chair of Graduate Studies Committee (Elected) Aug. 2020 - Aug. 2021
-Dept. of Computer Science and Engineering
-Wright State University, Dayton, OH
+Chair of Graduate Studies Committee (Elected)
++ Aug. 2020 - Aug. 2021
++ Dept. of Computer Science and Engineering
++ Wright State University
 
-Chair of Undergraduate Curriculum Committee (Elected) Aug. 2017 - Aug. 2019
-Dept. of Computer Science and Engineering
-Wright State University, Dayton, OH
+Chair of Undergraduate Curriculum Committee (Elected) 
++ Aug. 2017 - Aug. 2019
++ Dept. of Computer Science and Engineering
++ Wright State University
 
 
 <h2 style="text-decoration: underline;">HONORS</h2>
 
-Robert J. Kegerreis Distinguished Professor of Teaching 2024
-Awardee
-Wright State University, Dayton, OH
+Awardee, Robert J. Kegerreis Distinguished Professor of Teaching Award, 2024, Wright State University
 
-University Robert J. Kegerreis Distinguished Professor of Teaching 2023
-Nominee
-Wright State University, Dayton, OH
+Nominee, Robert J. Kegerreis Distinguished Professor of Teaching Award, 2023, Wright State University
 
-University TET Teaching Award 2022
-Nominee
-Wright State University, Dayton, OH
+UNominee, niversity TET Teaching Award 2022, Wright State University
 
-Excellence in Teaching of College of Engineering and Computer Science 2022
-Awardee (Student Voted)
-Wright State University, Dayton, OH
+Awardee, Excellence in Teaching of College of Engineering and Computer Science (Student Voted), 2022, Wright State University
 
-Excellence in Research of College of Engineering and Computer Science 2019
-Awardee
-Wright State University, Dayton, OH
+Awardee, Excellence in Research of College of Engineering and Computer Science, 2019, Wright State University
