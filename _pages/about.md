@@ -26,12 +26,10 @@ B.S. in Computer Science, 2003
 
 <h2 style="text-decoration: underline;">ACADEMIC APPOINTMENTS</h2>
 
-Associate Professor, 2018 - Present
-Dept. of Computer Science and Engineering,
+Associate Professor, 2018 - Present, Dept. of Computer Science and Engineering,
 Wright State University, Dayton, OH
 
-Assistant Professor, 2012 - 2018
-Dept. of Computer Science and Engineering,
+Assistant Professor, 2012 - 2018, Dept. of Computer Science and Engineering,
 Wright State University, Dayton, OH
 
 
