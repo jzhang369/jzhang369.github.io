@@ -23,6 +23,9 @@ main:
   - title: "Student Alumni"
     url: /student-alumni/
         
+  - title: "Service"
+    url: /service/
+
   - title: "Posts"
     url: /posts/
     

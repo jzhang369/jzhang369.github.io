@@ -17,3 +17,7 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% if site.posts.size == 0 %}
+<p>No posts are available yet.</p>
+{% endif %}

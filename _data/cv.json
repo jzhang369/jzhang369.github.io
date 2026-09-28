@@ -1,152 +1,397 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Junjie Zhang",
+    "label": "Associate Professor",
+    "email": "junjie.zhang@wright.edu",
+    "phone": "937-775-5015",
+    "website": "https://jzhang369.github.io/",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+      "address": "3640 Colonel Glenn Hwy.",
+      "postalCode": "45435-0001",
+      "city": "Dayton",
+      "region": "OH",
+      "countryCode": "US"
+    }
   },
-  "work": [],
+  "work": [
+    {
+      "position": "Associate Professor",
+      "company": "Wright State University",
+      "startDate": "2018",
+      "endDate": "Present",
+      "summary": "Department of Computer Science and Engineering"
+    },
+    {
+      "position": "Assistant Professor",
+      "company": "Wright State University",
+      "startDate": "2012",
+      "endDate": "2018",
+      "summary": "Department of Computer Science and Engineering"
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Georgia Institute of Technology",
+      "area": "Ph.D. in Computer Science",
+      "endDate": "2012"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "Xi’an Jiaotong University",
+      "area": "M.S. in Systems Engineering",
+      "endDate": "2006"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Xi’an Jiaotong University",
+      "area": "B.S. in Computer Science",
+      "endDate": "2003"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Bandwidth-Efficient Multi-View 3D Reconstruction via Fine-Grained Region Selection",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2026",
+      "summary": "Zhuobin Yuan, Rui Dai, and Junjie Zhang, “Bandwidth-Efficient Multi-View 3D Reconstruction via Fine-Grained Region Selection,” IEEE National Aerospace and Electronics Conference (NAECON), Aug. 2026."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "OLEC: Online-Learning-Based Error Concealment for Robust Point Cloud Streaming",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2026",
+      "summary": "Erwin Vargas-Alfonso, Rui Dai, and Junjie Zhang, “OLEC: Online-Learning-Based Error Concealment for Robust Point Cloud Streaming,” IEEE National Aerospace and Electronics Conference (NAECON), Aug. 2026."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Efficient Point Cloud Streaming via Curvature and Edge-Aware Sampling and Deep-Learning-Based Reconstruction",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2025",
+      "summary": "Apoorva Nandigam, Rui Dai, and Junjie Zhang, “Efficient Point Cloud Streaming via Curvature and Edge-Aware Sampling and Deep-Learning-Based Reconstruction,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2025."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "FedPDFGuard: A Federated Learning Approach for Robust Detection of Malicious PDF Files",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2025",
+      "summary": "Penyu Zhao, Daniel Chong, Honglu Jiang, Junjie Zhang, and Rui Dai, “FedPDFGuard: A Federated Learning Approach for Robust Detection of Malicious PDF Files,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2025."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "UQuery: Static Security Analysis of PHP-Based Web Programs Using Graph Models",
+      "publisher": "IEEE Conference on Communications and Network Security (CNS)",
+      "releaseDate": "2024",
+      "summary": "Jin Huang, Junjie Zhang, Jialun Liu, Chuang Li, and Rui Dai, “UQuery: Static Security Analysis of PHP-Based Web Programs Using Graph Models,” IEEE Conference on Communications and Network Security (CNS), Oct. 2024."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
+      "name": "An Empirical Study of Software Sanitization Locality",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2024",
+      "summary": "Nathaniel Christian Boland, Junjie Zhang, Daniel Chong, and Rui Dai, “An Empirical Study of Software Sanitization Locality,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2024."
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Path-Safe: Enabling Dynamic Mandatory Access Controls Using Security Tokens",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2024",
+      "summary": "James MacLennan and Junjie Zhang, “Path-Safe: Enabling Dynamic Mandatory Access Controls Using Security Tokens,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2024."
+    },
+    {
+      "name": "Malicious Code Detection Using LLM",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2024",
+      "summary": "Al Amin Hossain, Mithun Kumar PK, Junjie Zhang, and Fathi Amsaad, “Malicious Code Detection Using LLM,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2024."
+    },
+    {
+      "name": "No-Reference Image Quality Assessment for Intelligent Sensing Applications",
+      "publisher": "IEEE National Aerospace and Electronics Conference (NAECON)",
+      "releaseDate": "2024",
+      "summary": "Zhuobin Yuan, Ademola Ikusan, Rui Dai, and Junjie Zhang, “No-Reference Image Quality Assessment for Intelligent Sensing Applications,” IEEE National Aerospace and Electronics Conference (NAECON), Jul. 2024."
+    },
+    {
+      "name": "Disrupting EV Charging Sessions and Gaining Remote Code Execution with DoS, MITM, and Code Injection Exploits using OCPP 1.6",
+      "publisher": "Resilience Week (RWS)",
+      "releaseDate": "2023",
+      "summary": "David Elmo, George Fragkos, Jay Johnson, Kenneth Rohde, Sean Salinas, and Junjie Zhang, “Disrupting EV Charging Sessions and Gaining Remote Code Execution with DoS, MITM, and Code Injection Exploits using OCPP 1.6,” Resilience Week (RWS), Nov. 2023."
+    },
+    {
+      "name": "Code Execution Capability as a Metric for Machine Learning-Assisted Software Vulnerability Detection Models",
+      "publisher": "22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+      "releaseDate": "2023",
+      "summary": "Daniel Grahn, Lingwei Chen, and Junjie Zhang, “Code Execution Capability as a Metric for Machine Learning-Assisted Software Vulnerability Detection Models,” 22nd IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), Nov. 2023."
+    },
+    {
+      "name": "Automatically Inferring Image Base Addresses of ARM32 Binaries Using Architecture Features",
+      "publisher": "12th International Symposium on Security and Privacy on Internet of Things (SPIoT)",
+      "releaseDate": "2023",
+      "summary": "Daniel Chong, Junjie Zhang, Nathaniel Boland, and Lingwei Chen, “Automatically Inferring Image Base Addresses of ARM32 Binaries Using Architecture Features,” 12th International Symposium on Security and Privacy on Internet of Things (SPIoT), Nov. 2023."
+    },
+    {
+      "name": "An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting",
+      "publisher": "32nd USENIX Security Symposium (USENIX Security)",
+      "releaseDate": "2023",
+      "summary": "Jian Qu, Xiaobo Ma, Jianfeng Li, Xiapu Luo, Lei Xue, Junjie Zhang, Zhenhua Li, Li Feng, and Xiaohong Guan, “An Input-Agnostic Hierarchical Deep Learning Framework for Traffic Fingerprinting,” 32nd USENIX Security Symposium (USENIX Security), Aug. 2023."
+    },
+    {
+      "name": "An Analysis of C/C++ Datasets for Machine Learning-Assisted Software Vulnerability Detection",
+      "publisher": "Conference on Applied Machine Learning for Information Security (CAMLIS)",
+      "releaseDate": "2021",
+      "summary": "Daniel Grahn and Junjie Zhang, “An Analysis of C/C++ Datasets for Machine Learning-Assisted Software Vulnerability Detection,” Conference on Applied Machine Learning for Information Security (CAMLIS), Nov. 2021."
+    },
+    {
+      "name": "UFuzzer: Lightweight Detection of PHP-Based Unrestricted File Upload Vulnerabilities Via Static-Fuzzing Co-Analysis",
+      "publisher": "24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID)",
+      "releaseDate": "2021",
+      "summary": "Jin Huang, Junjie Zhang, Jialun Liu, Chuang Li, and Rui Dai, “UFuzzer: Lightweight Detection of PHP-Based Unrestricted File Upload Vulnerabilities Via Static-Fuzzing Co-Analysis,” 24th International Symposium on Research in Attacks, Intrusions and Defenses (RAID), Oct. 2021."
+    },
+    {
+      "name": "Context-aware Website Fingerprinting over Encrypted Proxies",
+      "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+      "releaseDate": "2021",
+      "summary": "Xiaobo Ma, Mawei Shi, Bingyu An, Jianfeng Li, Xiapu Luo, Junjie Zhang, and Xiaohong Guan, “Context-aware Website Fingerprinting over Encrypted Proxies,” IEEE Conference on Computer Communications (INFOCOM), May 2021."
+    },
+    {
+      "name": "UChecker: Automatically Detecting PHP-Based Unrestricted File Upload Vulnerabilities",
+      "publisher": "49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+      "releaseDate": "2019",
+      "summary": "Jin Huang, Yu Li, Junjie Zhang, and Rui Dai, “UChecker: Automatically Detecting PHP-Based Unrestricted File Upload Vulnerabilities,” 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Portland, Oregon, USA, Jun. 2019."
+    },
+    {
+      "name": "Vulnerability Assessment for Unmanned Systems Autonomy Services Architecture",
+      "publisher": "12th International Conference on Network and System Security (NSS)",
+      "releaseDate": "2018",
+      "summary": "Yu Li, Ivan Frasure, Ademola Ayodeji Ikusan, Junjie Zhang, and Rui Dai, “Vulnerability Assessment for Unmanned Systems Autonomy Services Architecture,” 12th International Conference on Network and System Security (NSS), Hong Kong, China, Aug. 2018."
+    },
+    {
+      "name": "Analyzing HTTP-Based Information Exfiltration of Malicious Android Applications",
+      "publisher": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+      "releaseDate": "2018",
+      "summary": "Soham Kelkar, Timothy Kraus, Daria Morgan, Junjie Zhang, and Rui Dai, “Analyzing HTTP-Based Information Exfiltration of Malicious Android Applications,” IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom), 2018."
+    },
+    {
+      "name": "Detecting Suspicious Members in An Online Emotional Support Service",
+      "publisher": "International Conference on Security and Privacy in Communication Networks (SecureComm)",
+      "releaseDate": "2018",
+      "summary": "Yu Li, Dae Wook Kim, Junjie Zhang, and Derek Doran, “Detecting Suspicious Members in An Online Emotional Support Service,” International Conference on Security and Privacy in Communication Networks (SecureComm), 2018."
+    },
+    {
+      "name": "Can We Learn What People Are Doing from RAW DNS Queries?",
+      "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+      "releaseDate": "2018",
+      "summary": "Jianfeng Li, Xiaobo Ma, Guodong Li, Xiapu Luo, Junjie Zhang, Wei Li, and Xiaohong Guan, “Can We Learn What People Are Doing from RAW DNS Queries?” IEEE Conference on Computer Communications (INFOCOM), 2018."
+    },
+    {
+      "name": "Tracking You Through DNS Traffic: Linking User Sessions By Clustering With Dirichlet Mixture Model",
+      "publisher": "ACM International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)",
+      "releaseDate": "2017",
+      "summary": "Mingxuan Sun, Guangyue Xu, Junjie Zhang, and Dae Wook Kim, “Tracking You Through DNS Traffic: Linking User Sessions By Clustering With Dirichlet Mixture Model,” ACM International Conference on Modelling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM), Nov. 2017."
+    },
+    {
+      "name": "Online-Relaying-Based Image Communication in Unmanned Aerial Vehicle Networks",
+      "publisher": "IEEE International Conference on Communications (ICC)",
+      "releaseDate": "2017",
+      "summary": "Kevon Scott, Rui Dai, and Junjie Zhang, “Online-Relaying-Based Image Communication in Unmanned Aerial Vehicle Networks,” IEEE International Conference on Communications (ICC), May 2017."
+    },
+    {
+      "name": "You Are How You Query: Deriving Behavioral Fingerprints From DNS Traffic",
+      "publisher": "11th International Conference on Security and Privacy in Communication Networks (SecureComm)",
+      "releaseDate": "2015",
+      "summary": "Dae Wook Kim and Junjie Zhang, “You Are How You Query: Deriving Behavioral Fingerprints From DNS Traffic,” 11th International Conference on Security and Privacy in Communication Networks (SecureComm), Dallas, USA, 2015."
+    },
+    {
+      "name": "Mission-Aware Vulnerability Assessment for Cyber-Physical Systems",
+      "publisher": "1st IEEE International Workshop on Trustworthy Software Systems (TrustSoft)",
+      "releaseDate": "2015",
+      "summary": "Xiaotian Wang, Matthew Davis, Junjie Zhang, and Vance Saunders, “Mission-Aware Vulnerability Assessment for Cyber-Physical Systems,” 1st IEEE International Workshop on Trustworthy Software Systems (TrustSoft), Helsinki, Finland, 2015."
+    },
+    {
+      "name": "Modeling Repeating Behaviors in Packet Arrivals: Detection and Measurement",
+      "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+      "releaseDate": "2015",
+      "summary": "Jianfeng Li, Jing Tao, Xiaobo Ma, Junjie Zhang, and Xiaohong Guan, “Modeling Repeating Behaviors in Packet Arrivals: Detection and Measurement,” IEEE Conference on Computer Communications (INFOCOM), Hong Kong, China, 2015."
+    },
+    {
+      "name": "Morphing Communications of Cyber-Physical Systems Towards Moving Target Defense",
+      "publisher": "IEEE International Conference on Communications (ICC)",
+      "releaseDate": "2014",
+      "summary": "Yu Li, Rui Dai, and Junjie Zhang, “Morphing Communications of Cyber-Physical Systems Towards Moving Target Defense,” IEEE International Conference on Communications (ICC), Jun. 2014."
+    },
+    {
+      "name": "Intention and Origination: An Inside Look at Large-Scale Bot Queries",
+      "publisher": "20th Annual Network and Distributed System Security Symposium (NDSS)",
+      "releaseDate": "2013",
+      "summary": "Junjie Zhang, Yinglian Xie, Fang Yu, David Soukal, and Wenke Lee, “Intention and Origination: An Inside Look at Large-Scale Bot Queries,” 20th Annual Network and Distributed System Security Symposium (NDSS), San Diego, USA, 2013."
+    },
+    {
+      "name": "Net-Cohort: Detecting and Managing VM Ensembles in Virtualized Data Centers",
+      "publisher": "9th International Conference on Autonomic Computing (ICAC)",
+      "releaseDate": "2012",
+      "summary": "Liting Hu, Karsten Schwan, Ajay Gulati, Junjie Zhang, and Chengwei Wang, “Net-Cohort: Detecting and Managing VM Ensembles in Virtualized Data Centers,” 9th International Conference on Autonomic Computing (ICAC), San Jose, USA, 2012."
+    },
+    {
+      "name": "Exposing invisible timing-based traffic watermarks with BACKLIT",
+      "publisher": "27th Annual Computer Security Applications Conference (ACSAC)",
+      "releaseDate": "2011",
+      "summary": "Xiapu Luo, Peng Zhou, Junjie Zhang, Roberto Perdisci, Wenke Lee, and Rocky KC Chang, “Exposing invisible timing-based traffic watermarks with BACKLIT,” 27th Annual Computer Security Applications Conference (ACSAC), Orlando, USA, 2011."
+    },
+    {
+      "name": "Detecting Stealthy P2P Botnets Using Statistical Traffic Fingerprints",
+      "publisher": "41st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+      "releaseDate": "2011",
+      "summary": "Junjie Zhang, Roberto Perdisci, Wenke Lee, Unum Sarfraz, and Xiapu Luo, “Detecting Stealthy P2P Botnets Using Statistical Traffic Fingerprints,” 41st IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Hong Kong, China, 2011."
+    },
+    {
+      "name": "ARROW: Generating Signatures to Detect Drive-By Downloads",
+      "publisher": "20th International Conference on World Wide Web (WWW)",
+      "releaseDate": "2011",
+      "summary": "Junjie Zhang, Christian Seifert, Jack W. Stokes, and Wenke Lee, “ARROW: Generating Signatures to Detect Drive-By Downloads,” 20th International Conference on World Wide Web (WWW), Hyderabad, India, 2011."
+    },
+    {
+      "name": "Boosting the Scalability of Botnet Detection using Adaptive Traffic Sampling",
+      "publisher": "6th ACM Symposium on Information, Computer and Communications Security (ASIACCS)",
+      "releaseDate": "2011",
+      "summary": "Junjie Zhang, Xiapu Luo, Roberto Perdisci, Guofei Gu, Wenke Lee, and Nick Feamster, “Boosting the Scalability of Botnet Detection using Adaptive Traffic Sampling,” 6th ACM Symposium on Information, Computer and Communications Security (ASIACCS), Hong Kong, China, 2011."
+    },
+    {
+      "name": "On the Secrecy of Spread-Spectrum Flow Watermarks",
+      "publisher": "15th European Symposium on Research in Computer Security (ESORICS)",
+      "releaseDate": "2010",
+      "summary": "Xiapu Luo, Junjie Zhang, Roberto Perdisci, and Wenke Lee, “On the Secrecy of Spread-Spectrum Flow Watermarks,” 15th European Symposium on Research in Computer Security (ESORICS), Athens, Greece, 2010."
+    },
+    {
+      "name": "BotMiner: Clustering Analysis of Network Traffic for Protocol- and Structure-Independent Botnet Detection",
+      "publisher": "17th USENIX Security Symposium (USENIX Security)",
+      "releaseDate": "2008",
+      "summary": "Guofei Gu, Roberto Perdisci, Junjie Zhang, and Wenke Lee, “BotMiner: Clustering Analysis of Network Traffic for Protocol- and Structure-Independent Botnet Detection,” 17th USENIX Security Symposium (USENIX Security), San Jose, CA, 2008."
+    },
+    {
+      "name": "BotSniffer: Detecting Botnet Command and Control Channels in Network Traffic",
+      "publisher": "15th Annual Network and Distributed System Security Symposium (NDSS)",
+      "releaseDate": "2008",
+      "summary": "Guofei Gu, Junjie Zhang, and Wenke Lee, “BotSniffer: Detecting Botnet Command and Control Channels in Network Traffic,” 15th Annual Network and Distributed System Security Symposium (NDSS), San Diego, CA, Feb. 2008."
+    },
+    {
+      "name": "Reparameterizing Adversarial Reprogramming in Low-Dimensional Subspace for Efficient Software Vulnerability Detection",
+      "publisher": "Journal of Information Security and Applications",
+      "releaseDate": "2026",
+      "summary": "Hootan Alavizadeh, Lingwei Chen, and Junjie Zhang, “Reparameterizing Adversarial Reprogramming in Low-Dimensional Subspace for Efficient Software Vulnerability Detection,” Journal of Information Security and Applications, vol. 99, Art. no. 104443, Jun. 2026."
+    },
+    {
+      "name": "Vul-Mixer: Efficient and Effective Machine Learning–Assisted Software Vulnerability Detection",
+      "publisher": "Electronics",
+      "releaseDate": "2024",
+      "summary": "Daniel Grahn, Lingwei Chen, and Junjie Zhang, “Vul-Mixer: Efficient and Effective Machine Learning–Assisted Software Vulnerability Detection,” Electronics, vol. 13, no. 13, Art. no. 2538, Jul. 2024."
+    },
+    {
+      "name": "Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures",
+      "publisher": "IEEE/ACM Transactions on Networking",
+      "releaseDate": "2024",
+      "summary": "Xiaobo Ma, Jian Qu, Mawei Shi, Bingyu An, Jianfeng Li, Xiapu Luo, Junjie Zhang, Zhenhua Li, and Xiaohong Guan, “Website Fingerprinting on Encrypted Proxies: A Flow-Context-Aware Approach and Countermeasures,” IEEE/ACM Transactions on Networking, vol. 32, no. 3, pp. 1904–1919, Jun. 2024."
+    },
+    {
+      "name": "Multi-Codec Rate Adaptive Point Cloud Streaming for Holographic Type Communication",
+      "publisher": "ITU Journal on Future and Evolving Technologies",
+      "releaseDate": "2023",
+      "summary": "Mahendra Suthar, Rui Dai, Junjie Zhang, Sasu Tarkoma, and Ian F. Akyildiz, “Multi-Codec Rate Adaptive Point Cloud Streaming for Holographic Type Communication,” ITU Journal on Future and Evolving Technologies, vol. 4, no. 4, pp. 590–603, Nov. 2023."
+    },
+    {
+      "name": "Detecting Suspicious Transactions in A Virtual-Currency-Enabled Online Social Network",
+      "publisher": "Journal of Network and Computer Applications",
+      "releaseDate": "2023",
+      "summary": "Yadong Zhou, Bowen Hu, Junjie Zhang, Liyuan Sun, Xingyu Zhu, and Ting Liu, “Detecting Suspicious Transactions in A Virtual-Currency-Enabled Online Social Network,” Journal of Network and Computer Applications, vol. 211, Art. no. 103555, Feb. 2023."
+    },
+    {
+      "name": "ShellBreaker: Automatically Detecting PHP-Based Malicious Web Shells",
+      "publisher": "Computers & Security",
+      "releaseDate": "2019",
+      "summary": "Yu Li, Jin Huang, Ademola Ikusan, Milliken Mitchell, Junjie Zhang, and Rui Dai, “ShellBreaker: Automatically Detecting PHP-Based Malicious Web Shells,” Computers & Security, vol. 87, Art. no. 101595, Nov. 2019."
+    },
+    {
+      "name": "User Interactions and Behaviors in A Large-Scale Online Emotional Support Service",
+      "publisher": "Social Network Analysis and Mining",
+      "releaseDate": "2019",
+      "summary": "Derek Doran, Luisa Massari, Maria Carla Calzarossa, Yu Li, Daniele Tessera, and Junjie Zhang, “User Interactions and Behaviors in A Large-Scale Online Emotional Support Service,” Social Network Analysis and Mining, vol. 9, Art. no. 36, Jul. 2019."
+    },
+    {
+      "name": "Probabilistically Inferring Attack Ramifications Using Temporal Dependence Network",
+      "publisher": "IEEE Transactions on Information Forensics and Security",
+      "releaseDate": "2018",
+      "summary": "Yuan Yang, Zhongmin Cai, Chunyan Wang, and Junjie Zhang, “Probabilistically Inferring Attack Ramifications Using Temporal Dependence Network,” IEEE Transactions on Information Forensics and Security, vol. 13, no. 11, pp. 2913–2928, Nov. 2018."
+    },
+    {
+      "name": "Designing self-destructing wireless sensors with security and performance assurance",
+      "publisher": "Computer Networks",
+      "releaseDate": "2018",
+      "summary": "Yu Li, Xiaotian Wang, Dae Wook Kim, Junjie Zhang, and Rui Dai, “Designing self-destructing wireless sensors with security and performance assurance,” Computer Networks, vol. 141, pp. 44–56, Aug. 2018."
+    },
+    {
+      "name": "Analyzing and Detecting Money-Laundering Accounts in Online Social Networks",
+      "publisher": "IEEE Network",
+      "releaseDate": "2018",
+      "summary": "Yadong Zhou, Ximi Wang, Junjie Zhang, Peng Zhang, Lili Liu, Huan Jin, and Hongbo Jin, “Analyzing and Detecting Money-Laundering Accounts in Online Social Networks,” IEEE Network, vol. 32, no. 3, pp. 115–121, May 2018."
+    },
+    {
+      "name": "Exploiting the Vulnerability of Flow Table Overflow in Software-Defined Network: Attack Model, Evaluation and Defense",
+      "publisher": "Security and Communication Networks",
+      "releaseDate": "2018",
+      "summary": "Yadong Zhou, Kaiyue Chen, Junjie Zhang, Junyuan Leng, and Yazhe Tang, “Exploiting the Vulnerability of Flow Table Overflow in Software-Defined Network: Attack Model, Evaluation and Defense,” Security and Communication Networks, vol. 2018, Art. no. 4760632, Jan. 2018."
+    },
+    {
+      "name": "Deriving and Measuring DNS-Based Fingerprints",
+      "publisher": "Journal of Information Security and Applications",
+      "releaseDate": "2017",
+      "summary": "Dae Wook Kim and Junjie Zhang, “Deriving and Measuring DNS-Based Fingerprints,” Journal of Information Security and Applications, vol. 36, pp. 32–42, Oct. 2017."
+    },
+    {
+      "name": "Mining Repeating Pattern in Packet Arrivals: Metrics, Models, and Applications",
+      "publisher": "Information Sciences",
+      "releaseDate": "2017",
+      "summary": "Jianfeng Li, Xiaobo Ma, Junjie Zhang, Jing Tao, Pinghui Wang, and Xiaohong Guan, “Mining Repeating Pattern in Packet Arrivals: Metrics, Models, and Applications,” Information Sciences, vol. 408, pp. 1–22, Oct. 2017."
+    },
+    {
+      "name": "ProGuard: Detecting Malicious Accounts in Social-Network-Based Online Promotions",
+      "publisher": "IEEE Access",
+      "releaseDate": "2017",
+      "summary": "Yadong Zhou, Dae Wook Kim, Junjie Zhang, Lili Liu, Huan Jin, Hongbo Jin, and Ting Liu, “ProGuard: Detecting Malicious Accounts in Social-Network-Based Online Promotions,” IEEE Access, vol. 5, pp. 1990–1999, Jan. 2017 (Special Issue on Trust Management in Pervasive Social Networking (TruPSN))."
+    },
+    {
+      "name": "Detecting Fake Anti-Virus Software Distribution Webpages",
+      "publisher": "Computers & Security",
+      "releaseDate": "2015",
+      "summary": "Dae Wook Kim, Peiying Yan, and Junjie Zhang, “Detecting Fake Anti-Virus Software Distribution Webpages,” Computers & Security, vol. 49, pp. 95–106, Mar. 2015."
+    },
+    {
+      "name": "Accurate DNS Query Characteristics Estimation via Active Probing",
+      "publisher": "Journal of Network and Computer Applications",
+      "releaseDate": "2015",
+      "summary": "Xiaobo Ma, Junjie Zhang, Zhenhua Li, Jianfeng Li, Jing Tao, Xiaohong Guan, John C. S. Lui, and Don Towsley, “Accurate DNS Query Characteristics Estimation via Active Probing,” Journal of Network and Computer Applications, vol. 47, pp. 72–84, Jan. 2015."
+    },
+    {
+      "name": "DNSRadar: Outsourcing Malicious Domain Detection Based on Distributed Cache-Footprints",
+      "publisher": "IEEE Transactions on Information Forensics and Security",
+      "releaseDate": "2014",
+      "summary": "Xiaobo Ma, Junjie Zhang, Jing Tao, Jianfeng Li, Jue Tian, and Xiaohong Guan, “DNSRadar: Outsourcing Malicious Domain Detection Based on Distributed Cache-Footprints,” IEEE Transactions on Information Forensics and Security, vol. 9, no. 11, pp. 1906–1921, Nov. 2014."
+    },
+    {
+      "name": "Building a Scalable System for Stealthy P2P-Botnet Detection",
+      "publisher": "IEEE Transactions on Information Forensics and Security",
+      "releaseDate": "2014",
+      "summary": "Junjie Zhang, Roberto Perdisci, Wenke Lee, Xiapu Luo, and Unum Sarfraz, “Building a Scalable System for Stealthy P2P-Botnet Detection,” IEEE Transactions on Information Forensics and Security, vol. 9, no. 1, pp. 27–38, Jan. 2014."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "CEG 4430/6430: Cyber Network Security",
+      "institution": "Wright State University"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "course": "CEG 7420: Software Reverse Engineering and Program Analysis",
+      "institution": "Wright State University"
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "course": "CEG 7600: Trust Networks",
+      "institution": "Wright State University"
+    },
+    {
+      "course": "CEG 7380: Cloud Computing",
+      "institution": "Wright State University"
+    },
+    {
+      "course": "CS 7200: Algorithm Design and Analysis",
+      "institution": "Wright State University"
     }
   ]
 }

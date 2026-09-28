@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Junjie Zhang"
 title_separator          : "-"
 name                     : &name "Junjie Zhang"
-description              : &description "Professor | Wright State University"
+description              : &description "Associate Professor | Wright State University"
 url                      : "https://jzhang369.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jzhang369/jzhang369.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "Junjie_Zhang_Profile.jpg"
   name             : "Junjie Zhang"
   
-  bio              : "Computer Science Professor"
+  bio              : "Associate Professor · Director of the Cyber Security Program"
   location         : "Dayton, OH"
   employer         : "Wright State University"
   uri              : # URL
@@ -119,6 +119,13 @@ include:
   - _pages
   - files
 exclude:
+  - talkmap
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
